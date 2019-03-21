@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 AVJ : https://www.npmjs.com/package/ajv
 
-Test to validate a simple json :
+Upload and Test client-side to validate a simple json :
 
 {
  "hello":"world"
